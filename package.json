@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_sql",
+  "version": "1.0.0",
+  "description": "Learning How to manipulate sql databases with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "sql"
+  ],
+  "author": "Brian Mulwa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
